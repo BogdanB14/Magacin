@@ -1,6 +1,6 @@
 package magacin;
 
-public class Knjiga {
+public class Knjiga extends Artikal{
 	private String naziv;
 	private int sifra;
 	private String opis;
