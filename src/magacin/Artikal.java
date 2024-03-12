@@ -5,6 +5,7 @@ public class Artikal {
 	protected int sifra;
 	protected String opis;
 	protected int kolicina;
+	
 	public String getNaziv() {
 		return naziv;
 	}
@@ -40,4 +41,5 @@ public class Artikal {
 	
 	
 }
+
 
